@@ -21,3 +21,4 @@ python3 -m http.server 8000
 - **Profile Photo**: Add an `img.png` file in the project root — it will automatically appear in the hero avatar.
 - **Content & Links**: Edit `index.html` to update your bio, skills, projects, and social links.
 - **Colors**: Adjust the CSS custom properties in `:root` inside `style.css`.
+# GitHub-practical-test
